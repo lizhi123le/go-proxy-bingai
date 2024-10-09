@@ -8,3 +8,7 @@ rules = [
 
 [placement]
 mode = "smart"
+
+# wrangler.toml (wrangler v3.78.6^)
+[observability]
+enabled = true
